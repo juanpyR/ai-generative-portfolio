@@ -1,0 +1,58 @@
+Goal:
+Generate high-quality 8-second AI video clips for a business automation explainer,
+intended for professional and corporate use.
+
+Video Style & Aesthetics:
+- Corporate, clean, and minimal visual style
+- Neutral and professional color palette (soft grays, whites, muted blues)
+- Soft, natural lighting with no harsh shadows
+- Realistic environments and human proportions
+- Cinematic but subtle look, avoiding stylized or cartoonish visuals
+
+Camera & Composition:
+- Stable camera with smooth, slow movements only
+- Professional framing (medium and wide shots)
+- Balanced composition following rule of thirds
+- No fast cuts or abrupt camera movements
+
+Motion & Timing:
+- Natural, slow-paced motion suitable for an 8-second clip
+- Clear visual focus within the first 2 seconds
+- Smooth transitions within the scene
+
+Mood & Emotion:
+- Professional, realistic, and business-oriented
+- Calm and credible emotional tone
+- Avoid exaggerated facial expressions or gestures
+
+Constraints:
+- Avoid futuristic or sci-fi elements
+- Avoid exaggerated animations or effects
+- Avoid visual distortions, warped faces, or unrealistic movements
+- Avoid overly bright or saturated colors
+
+--------------------------------
+Scene 1 – Problem (Operational Friction)
+--------------------------------
+A modern small-business office environment during a workday.
+A small team appears slightly overwhelmed and unfocused.
+Multiple screens show cluttered dashboards with too much information.
+Papers and notebooks are visible on desks, suggesting disorganization.
+The atmosphere feels inefficient but realistic and professional.
+
+--------------------------------
+Scene 2 – Solution (AI-Powered Automation)
+--------------------------------
+The same office environment, now more organized and visually clean.
+Dashboards on screens are simplified and clearly structured.
+Automated workflows and clean UI elements are visible.
+The team looks more focused and calm.
+The environment conveys clarity, structure, and control.
+
+--------------------------------
+Scene 3 – Result (Confidence and Efficiency)
+--------------------------------
+The team works confidently in a clean, organized office.
+Screens display clear metrics and positive performance indicators.
+Body language appears relaxed and professional.
+The overall atmosphere conveys efficiency, trust, and operational success.

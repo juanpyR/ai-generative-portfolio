@@ -18,3 +18,7 @@ Focus:
 
 Tool:
 - Gemini (AI video generation)
+- 
+Notes:
+Each video clip was generated using the same structured prompt,
+modifying only the scene description to ensure visual and narrative consistency.
